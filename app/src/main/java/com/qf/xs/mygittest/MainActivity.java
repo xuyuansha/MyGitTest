@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.e("print","第二次提交");
+        Log.e("print","第二次提交");
+        Log.e("print","第二次提交");
     }
 }
