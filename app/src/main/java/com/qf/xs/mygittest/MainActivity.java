@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
         Log.e("print","第二次提交");
         Log.e("print","第二次提交");
         Log.e("print","第二次提交");
+        Log.e("print","第二次提交");
+        Log.e("print","第二次提交");
+        Log.e("print","第二次提交");
     }
 }
